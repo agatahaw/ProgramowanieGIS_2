@@ -1,0 +1,6 @@
+rosol 5.00
+mielony 6.50
+schabowy 7.00
+ziemniaki 2.50
+ryz 2.00
+kompot 1.50

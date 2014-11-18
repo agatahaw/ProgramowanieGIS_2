@@ -1,0 +1,6 @@
+tekst : 3
+nowe : 1
+probny : 1
+to : 3
+jest : 1
+agata : 2
